@@ -4,3 +4,5 @@
 # java swing
 
 >>>>>>> feat/1/customer
+
+v1.0.0
